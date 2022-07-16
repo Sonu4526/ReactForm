@@ -171,7 +171,7 @@ const Demo = () => {
                             </Typography>
                         </Grid>
                         <Grid >
-                            <Button variant="contained" fullWidth type="submit" >
+                            <Button variant="contained" fullWidth type="submit" color="primary">
                                 Submit
                             </Button>
                         </Grid>
